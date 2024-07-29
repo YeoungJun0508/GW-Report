@@ -18,3 +18,5 @@
 
 
 - [240716](https://github.com/YeoungJun0508/GW-Report/blob/main/240716.md)
+
+- [240729](https://github.com/YeoungJun0508/GW-Report/blob/main/240729.md)
