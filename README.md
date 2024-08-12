@@ -22,3 +22,5 @@
 - [240729](https://github.com/YeoungJun0508/GW-Report/blob/main/240729.md)
 
 - [270805](https://github.com/YeoungJun0508/GW-Report/blob/main/240805.md)
+
+- [240812](https://github.com/YeoungJun0508/GW-Report/blob/main/240812.md)
